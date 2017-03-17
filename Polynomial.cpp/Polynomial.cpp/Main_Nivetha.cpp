@@ -19,9 +19,9 @@ int main(int argc, const char * argv[]) {
     Polynomial mulres;
     Polynomial p2,p3,p4;
     
-    std::cout<<"Polynomial 1:"<<endl;
+    std::cout<<"P 1:"<<endl;
     cout<<p0<<endl;
-    std::cout<<"Polynomial 2:"<<endl;
+    std::cout<<"P 2:"<<endl;
     cout<<p1<<endl;
     std::cout<<"Add:"<<endl;
     cout<< p0+p1 <<endl;
