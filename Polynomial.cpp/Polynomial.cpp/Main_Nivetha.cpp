@@ -23,11 +23,11 @@ int main(int argc, const char * argv[]) {
     cout<<p0<<endl;
     std::cout<<"Polynomial 2:"<<endl;
     cout<<p1<<endl;
-    std::cout<<"Addition:"<<endl;
+    std::cout<<"Add:"<<endl;
     cout<< p0+p1 <<endl;
-    std::cout<<"Subtraction:"<<endl;
+    std::cout<<"Sub:"<<endl;
     cout<<p0-p1<<endl;
-    std::cout<<"Multiplication:"<<endl;
+    std::cout<<"Mul:"<<endl;
     cout<<p0*p1<<endl;
     std::cout<<"Addition Assignment:"<<endl;
     p2=p1;
